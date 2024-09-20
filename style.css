@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+}
+.c1{
+    background-image: url(pics/frontend-transformed\ \(1\).jpeg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+
+}
+.c2{
+    background-image:url(pics/html-transformed.jpeg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.c3{
+        background-image: url(pics/css1.png);
+        height: 100vh;
+        width:100vw;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+}
+.c4{
+    background-image: url(pics/js2.png);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.c5{
+    background-image: url(pics/react.png);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.c6{
+    background-image: url(pics/back.png);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c7{
+    background-image: url(pics/node_LE_auto_x2_light_ai.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c8{
+    background-image: url(pics/python_LE_auto_x2_light_ai.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c11{
+    background-image: url(pics/man_LE_auto_x2_light_ai.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c9{
+    background-image: url(pics/sql.png);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c10{
+    background-image: url(pics/mern_LE_auto_x2_light_ai.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
